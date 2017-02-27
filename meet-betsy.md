@@ -1,6 +1,6 @@
 Title: Meet Betsy
 Author: Bryce McNab
-Category: Overland, 4x4
+Category: Overland
 Date: 02/26/17
 
 ## Meet Betsy, my FC-170.
