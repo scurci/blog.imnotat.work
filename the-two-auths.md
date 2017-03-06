@@ -2,7 +2,7 @@ Title: The Two Auths
 Date: 2017-02-24
 Category: Security
 Authors: Bryce McNab
-Tags: The adventures of Alice and Bob, Tinfoil hat
+Tags: Alice and Bob
 
 Like in my [last article](http://blog.imnotat.work/security-vs-anonymity.html), authentication and authorization are often used interchangeably and when we are talking about security it can be very crucial for you to know the difference.
 
